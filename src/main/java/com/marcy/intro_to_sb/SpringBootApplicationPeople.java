@@ -1,4 +1,4 @@
-package com.marcy;
+package com.marcy.intro_to_sb;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.GetMapping;
